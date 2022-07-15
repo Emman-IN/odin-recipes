@@ -1,3 +1,3 @@
 # Odin Recipie Projects
 
-Practice of the basic html.
+Practice of basic html.
